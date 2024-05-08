@@ -1,7 +1,3 @@
-Claro! Abaixo está um exemplo de um README.md para explicar o sistema de controle de contratos utilizando .NET MVC com autenticação via session:
-
----
-
 # Sistema de Controle de Contratos
 
 Este é um sistema de controle de contratos desenvolvido utilizando o framework .NET MVC. Ele permite o gerenciamento de contratos, incluindo a criação, edição, exclusão e listagem de contratos. Além disso, oferece funcionalidades de autenticação de usuários via session.
